@@ -1,4 +1,4 @@
-# Product mathiching based on ML algorithms
+# Product matching based on ML algorithms
 
 The project is done by Basang Basangov.
 Telegram: [basan4ik](https://t.me/basan4ik)
